@@ -1,0 +1,57 @@
+C:\Users\smoil\Desktop\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\smoil\Desktop\Chat\Chat\obj\Debug\SimpleChat_Client.Form1.resources
+C:\Users\smoil\Desktop\Chat\Chat\obj\Debug\SimpleChat_Client.LoginSign.resources
+C:\Users\smoil\Desktop\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\smoil\Desktop\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\smoil\Desktop\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\smoil\Desktop\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\smoil\Desktop\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\smoil\Desktop\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\smoil\Desktop\Chat\Chat\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\smoil\Desktop\Chat\Chat\bin\Debug\MySql.Data.dll
+C:\Users\smoil\Desktop\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\smoil\Desktop\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\smoil\Desktop\chat — копия\Chat\obj\Debug\SimpleChat_Client.Form1.resources
+C:\Users\smoil\Desktop\chat — копия\Chat\obj\Debug\SimpleChat_Client.LoginSign.resources
+C:\Users\smoil\Desktop\chat — копия\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\smoil\Desktop\chat — копия\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\smoil\Desktop\chat — копия\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\smoil\Desktop\chat — копия\Chat\obj\Debug\Chat.exe
+C:\Users\smoil\Desktop\chat — копия\Chat\obj\Debug\Chat.pdb
+C:\Users\smoil\Desktop\chat — копия\Chat\bin\Debug\Chat.exe.config
+C:\Users\smoil\Desktop\chat — копия\Chat\bin\Debug\Chat.exe
+C:\Users\smoil\Desktop\chat — копия\Chat\bin\Debug\Chat.pdb
+C:\Users\smoil\Desktop\chat — копия\Chat\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\smoil\Desktop\chat — копия\Chat\bin\Debug\MySql.Data.dll
+C:\Users\smoil\Desktop\chat — копия\Chat\bin\Debug\MetroFramework.dll
+C:\Users\smoil\Desktop\chat — копия\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\smoil\Desktop\chat v.4.0\Chat\bin\Debug\Chat.exe.config
+C:\Users\smoil\Desktop\chat v.4.0\Chat\bin\Debug\Chat.exe
+C:\Users\smoil\Desktop\chat v.4.0\Chat\bin\Debug\Chat.pdb
+C:\Users\smoil\Desktop\chat v.4.0\Chat\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\smoil\Desktop\chat v.4.0\Chat\bin\Debug\MetroFramework.dll
+C:\Users\smoil\Desktop\chat v.4.0\Chat\bin\Debug\MySql.Data.dll
+C:\Users\smoil\Desktop\chat v.4.0\Chat\obj\Debug\SimpleChat_Client.Form1.resources
+C:\Users\smoil\Desktop\chat v.4.0\Chat\obj\Debug\SimpleChat_Client.LoginSign.resources
+C:\Users\smoil\Desktop\chat v.4.0\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\smoil\Desktop\chat v.4.0\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\smoil\Desktop\chat v.4.0\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\smoil\Desktop\chat v.4.0\Chat\obj\Debug\Chat.exe
+C:\Users\smoil\Desktop\chat v.4.0\Chat\obj\Debug\Chat.pdb
+C:\Users\smoil\Desktop\chat v.4.0\Chat\obj\Debug\Chat.bubble.resources
+C:\Users\smoil\Desktop\chat v.4.0\Chat\obj\Debug\Chat.Profile.resources
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\bin\Debug\Chat.exe.config
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\bin\Debug\Chat.exe
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\bin\Debug\Chat.pdb
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\obj\Debug\Chat.bubble.resources
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\obj\Debug\SimpleChat_Client.Form1.resources
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\obj\Debug\SimpleChat_Client.LoginSign.resources
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\obj\Debug\Chat.Profile.resources
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\obj\Debug\Chat.csproj.CopyComplete
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\obj\Debug\Chat.exe
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\obj\Debug\Chat.pdb
+C:\Users\Admin\Desktop\chat v.4.2\chat v.4.2\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
